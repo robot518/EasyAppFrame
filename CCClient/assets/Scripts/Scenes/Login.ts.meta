@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "30cf81eb-8bc7-4d30-a7fe-7de81bc91dde",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Scenes/Login.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

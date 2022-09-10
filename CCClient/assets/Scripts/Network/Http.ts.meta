@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "993851f5-2fd7-4724-9cc3-8a55ad0a3562",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Network/Http.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}

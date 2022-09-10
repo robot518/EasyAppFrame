@@ -1,0 +1,13 @@
+{
+  "ver": "4.0.23",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "96d763d4-3f2c-4d43-aa0a-51ca7c81b1cb",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Scenes/Hall.js",
+    "importerSettings": 7,
+    "simulateGlobals": []
+  }
+}
