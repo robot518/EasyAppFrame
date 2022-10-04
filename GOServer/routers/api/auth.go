@@ -2,9 +2,9 @@ package api
 
 import (
 	"fmt"
-	"github.com/SmileChen518/goFrame/models"
-	"github.com/SmileChen518/goFrame/pkg/e"
-	"github.com/SmileChen518/goFrame/pkg/util"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/models"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/e"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/util"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

@@ -2,13 +2,13 @@ package main
 
 import (
 	"fmt"
-	"github.com/SmileChen518/goFrame/models"
-	"github.com/SmileChen518/goFrame/routers"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/models"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/routers"
 	"github.com/fvbock/endless"
 	"log"
 	"syscall"
 
-	"github.com/SmileChen518/goFrame/pkg/setting"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/setting"
 )
 
 func init() {

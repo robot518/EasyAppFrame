@@ -2,8 +2,8 @@ package hall
 
 import (
 	"fmt"
-	"github.com/SmileChen518/goFrame/models"
-	"github.com/SmileChen518/goFrame/pkg/e"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/models"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/e"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

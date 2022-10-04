@@ -1,11 +1,11 @@
 package routers
 
 import (
-	"github.com/SmileChen518/goFrame/models/jwt"
-	"github.com/SmileChen518/goFrame/pkg/setting"
-	"github.com/SmileChen518/goFrame/routers/api"
-	"github.com/SmileChen518/goFrame/routers/api/hall"
-	v1 "github.com/SmileChen518/goFrame/routers/api/v1"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/models/jwt"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/setting"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/routers/api"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/routers/api/hall"
+	v1 "github.com/SmileChen518/EasyAppFrame/GOServer/routers/api/v1"
 	"github.com/gin-gonic/gin"
 )
 

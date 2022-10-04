@@ -1,4 +1,4 @@
-module github.com/SmileChen518/goFrame
+module github.com/SmileChen518/EasyAppFrame/GOServer
 
 go 1.15
 
@@ -41,10 +41,10 @@ require (
 )
 
 replace (
-	github.com/SmileChen518/goFrame/conf => ../goFrame/pkg/conf
-	github.com/SmileChen518/goFrame/middleware => ../goFrame/middleware
-	github.com/SmileChen518/goFrame/models => ../goFrame/models
-	github.com/SmileChen518/goFrame/pkg/e => ../goFrame/pkg/e
-	github.com/SmileChen518/goFrame/pkg/setting => ../goFrame/pkg/setting
-	github.com/SmileChen518/goFrame/routers => ../goFrame/routers
+	github.com/SmileChen518/EasyAppFrame/GOServer/conf => ../goFrame/pkg/conf
+	github.com/SmileChen518/EasyAppFrame/GOServer/middleware => ../goFrame/middleware
+	github.com/SmileChen518/EasyAppFrame/GOServer/models => ../goFrame/models
+	github.com/SmileChen518/EasyAppFrame/GOServer/pkg/e => ../goFrame/pkg/e
+	github.com/SmileChen518/EasyAppFrame/GOServer/pkg/setting => ../goFrame/pkg/setting
+	github.com/SmileChen518/EasyAppFrame/GOServer/routers => ../goFrame/routers
 )

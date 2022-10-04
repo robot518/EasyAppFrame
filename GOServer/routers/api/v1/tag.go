@@ -7,10 +7,10 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/unknwon/com"
 
-	"github.com/SmileChen518/goFrame/models"
-	"github.com/SmileChen518/goFrame/pkg/e"
-	"github.com/SmileChen518/goFrame/pkg/setting"
-	"github.com/SmileChen518/goFrame/pkg/util"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/models"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/e"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/setting"
+	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/util"
 )
 
 func GetTags(c *gin.Context) {
