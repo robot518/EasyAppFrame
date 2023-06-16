@@ -2,11 +2,12 @@ package main
 
 import (
 	"fmt"
+	"log"
+	"syscall"
+
 	"github.com/SmileChen518/EasyAppFrame/GOServer/models"
 	"github.com/SmileChen518/EasyAppFrame/GOServer/routers"
 	"github.com/fvbock/endless"
-	"log"
-	"syscall"
 
 	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/setting"
 )

@@ -1,9 +1,9 @@
 {
+  "creator": {
+    "version": "3.7.1"
+  },
   "name": "Proxy",
   "type": "3d",
   "uuid": "a2518776-aabc-46a4-8f13-2b98eb8ab210",
-  "version": "3.6.0",
-  "creator": {
-    "version": "3.6.0"
-  }
+  "version": "3.6.2"
 }

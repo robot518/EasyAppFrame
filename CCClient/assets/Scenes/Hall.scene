@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.SceneAsset",
-    "_name": "",
+    "_name": "Hall",
     "_objFlags": 0,
     "_native": "",
     "scene": {
@@ -7155,7 +7155,6 @@
     "_type": 0,
     "_inverted": false,
     "_segments": 64,
-    "_spriteFrame": null,
     "_alphaThreshold": 0.1,
     "_id": "43MSs57YFD8ZDCm5tufA0i"
   },

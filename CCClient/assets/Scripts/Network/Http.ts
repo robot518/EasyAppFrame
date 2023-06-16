@@ -3,7 +3,8 @@ import { DataMgr } from "../Mgr/DataMgr";
 import { FuncMgr } from "../Mgr/FuncMgr";
 
 // let url = "http://192.168.50.67:8000";
-let url = "http://127.0.0.1:8000";
+// let url = "http://127.0.0.1:8000";
+let url = "http://101.132.117.122:8001";
 
 const initEvent=()=>{
     game.on(DataMgr.LOGIN, httpGetRequest);

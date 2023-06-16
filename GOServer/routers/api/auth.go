@@ -2,11 +2,12 @@ package api
 
 import (
 	"fmt"
+	"net/http"
+
 	"github.com/SmileChen518/EasyAppFrame/GOServer/models"
 	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/e"
 	"github.com/SmileChen518/EasyAppFrame/GOServer/pkg/util"
 	"github.com/gin-gonic/gin"
-	"net/http"
 )
 
 func Register(c *gin.Context) {
